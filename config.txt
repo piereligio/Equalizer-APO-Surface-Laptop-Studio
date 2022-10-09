@@ -1,0 +1,4 @@
+Device:  Altoparlanti Realtek High Definition Audio(SST) {ab943818-17bc-42bc-aa64-a6853ede97d0}
+Include: piereligio_SLS_laptop.txt
+# Include: piereligio_SLS_reverse.txt
+# Include: piereligio_SLS_tablet-stage.txt
