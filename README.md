@@ -3,14 +3,26 @@ Since I first got my hands on my Microsoft Surface Laptop Studio I appreciated t
 It tends to be a bit too high on mids, and not to fully take advantage of the hardware. 
 So I immediatelly installed Equalized APO and started tinkering with my presets. 
 
-The presets are three (+1 that loads them): one for "laptop mode", one for reverse mode, one for tablet mode (that is also good for stage mode). 
-All of them have their dedicated EQ curve, because each mode has a different sound. 
+<b>Description</b>
+The presets are four: 
+- "laptop mode";
+- stage mode;
+- tablet mode;
+- stage mode;
+- reverse mode. 
+All of them have their dedicated EQ curve, because everytime you change mode, the sound timbre changes. 
 In all of them I aimed at a flat frequency response. 
-If you got a good microphone for creating better profiles, of course feel free to share your versions.
+I used a calibrated Electrovoice ND767a, but it wasn't good enough, so I proceded with manual comparison with a calibrated Sennheiser HD599. 
+If you got a good microphone for creating better profiles, of course feel free to share your versions (let me know preferably).
 
-There is also config.txt that you need to use (you can overwrite your current config.txt if it's empty, otherwise you can join it with a text editor), it's just referencing to the other 3 profiles in order to make easy to switch the preset that you're using (it filters to my speakers output excluding the others, <b>you will need to set yours otherwise there won't be any have effect</b>).
-
-The profiles also use a free VST compressor called RoughRider3, which is available here. https://www.audiodamage.com/pages/free-downloads
-If you want to use the compression as I do, then put the dll file in this path: C:\Program Files\Vstplugins\Audio Damage\ .
-
-
+<b>Instructions for installation</b>
+- [Prerequisite] EqualizerAPO set up and installed on the speakers output using configurator app;
+- [Optional prerequisite for compression, highly recommended] 
+Install RoughRider3, which is available here. https://www.audiodamage.com/pages/free-downloads
+Use the setup file in the default path, or manually put the dll file in this path: C:\Program Files\Vstplugins\Audio Damage\ .
+- Download all files or the project as a zip;
+- Put all the files in C:\Program Files\EqualizerAPO\config\ (config.txt will be overwritten, if you didn't customize it just do it, otherwise merge them with a text editor);
+- Start "Configuration Editor" from the start menu.
+<img width="463" alt="image" src="https://user-images.githubusercontent.com/11073747/221178614-0cb36c13-8366-4d54-aee5-83d675c84c36.png">
+If it looks like the previous image but with a red text in the first row, it'll be like mine when you click "Change" button and select your speakers output device. <b>It's a needed step.</b> Once done, it should work using the "laptop mode" profile.
+- To select the various profiles, turn off and on one profile at a time. You haven't to turn on more than one included profile together, otherwise it'll sound very bad.
