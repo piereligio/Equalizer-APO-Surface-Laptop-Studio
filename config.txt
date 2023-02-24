@@ -1,4 +1,8 @@
-Device:  Altoparlanti Realtek High Definition Audio(SST) {ab943818-17bc-42bc-aa64-a6853ede97d0}
+Device:  Speakers Realtek High Definition Audio(SST) {0d7e52db-59bf-4a17-963f-4dbd84e0a5da}
 Include: piereligio_SLS_laptop.txt
+# Include: piereligio_SLS_stage.txt
+# Include: piereligio_SLS_tablet.txt
 # Include: piereligio_SLS_reverse.txt
-# Include: piereligio_SLS_tablet-stage.txt
+# Include: HeSuVi\hesuvi.txt
+# Device:  Out 1-2 MOTU M Series {c9523f1c-3836-484f-aefd-a49e11a6d3f9}
+# Include: Sennheiser HD 599 ParametricEQ.txt

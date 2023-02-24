@@ -1,0 +1,39 @@
+Filter Settings file
+Preamp: 24 dB
+
+Room EQ V5.20.13
+Dated: 21-feb-2023 17.34.58
+
+Notes:
+
+Equaliser: Generic
+SLS laptop feb 21
+Filter: ON LSC Fc 192.77 Hz Gain -15.3 dB Q 0.6499
+Filter: ON LSC Fc 10 Hz Gain -50 dB Q 0.5713
+Filter: ON PK Fc 280 Hz Gain -9.5 dB Q 1.4416
+Filter: ON PK Fc 396 Hz Gain -7.6 dB Q 2.31
+Filter: ON PK Fc 511 Hz Gain -2.1 dB Q 1.024
+Filter: ON PK Fc 756 Hz Gain -14 dB Q 1.534
+Filter: ON PK Fc 1602 Hz Gain -14.7 dB Q 1.005
+Filter  7: ON  PK       Fc    3815 Hz  Gain  -6.20 dB  Q  1.456
+Filter  8: ON  PK       Fc    7277 Hz  Gain -18.80 dB  Q  1.000
+Filter  9: ON  PK       Fc   12586 Hz  Gain -23.60 dB  Q  1.011
+Filter 10: ON  PK       Fc   16780 Hz  Gain -25.30 dB  Q  2.118
+Filter: ON HSC Fc 19454.9 Hz Gain -25 dB Q 0.7028
+Filter 11: ON  None   
+Filter 12: ON  None   
+Filter 13: ON  None   
+Filter 14: ON  None   
+Filter 15: ON  None   
+Filter 16: ON  None   
+Filter 17: ON  None   
+Filter 18: ON  None   
+Filter 19: ON  None   
+Filter 20: ON  None   
+Filter 21: ON  None   
+Filter 25: ON  None   
+Filter: ON PK Fc 619.48 Hz Gain -12.4 dB Q 0.4196
+Filter: ON PK Fc 2606.33 Hz Gain -6.3 dB Q 0.3379
+Filter: ON PK Fc 5000 Hz Gain -11.3 dB Q 3.638
+Filter: ON PK Fc 10000 Hz Gain -12.2 dB Q 4.3738
+

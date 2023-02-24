@@ -1,0 +1,8 @@
+Include: SLS laptop flat EQ REW.txt
+Filter: ON PK Fc 673.02 Hz Gain 11.4 dB Q 1.8486
+Filter: ON PK Fc 550.55 Hz Gain -10.7 dB Q 1.9537
+Filter: ON PK Fc 2517.85 Hz Gain -5.7 dB Q 1.9627
+Filter: ON PK Fc 937.63 Hz Gain -4.3 dB Q 5.381
+Filter: ON PK Fc 1253.23 Hz Gain -7 dB Q 2.2743
+
+Include: piereligio_SLS_compression.txt
