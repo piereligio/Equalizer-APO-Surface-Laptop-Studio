@@ -4,19 +4,21 @@ It tends to be a bit too high on mids, and not to fully take advantage of the ha
 So I immediatelly installed Equalized APO and started tinkering with my presets. 
 
 <b>Description</b>
+
 The presets are four: 
 - "laptop mode";
 - stage mode;
 - tablet mode;
 - stage mode;
 - reverse mode. 
+
 All of them have their dedicated EQ curve, because everytime you change mode, the sound timbre changes. 
 In all of them I aimed at a flat frequency response. 
 I used a calibrated Electrovoice ND767a, but it wasn't good enough, so I proceded with manual comparison with a calibrated Sennheiser HD599. 
 If you got a good microphone for creating better profiles, of course feel free to share your versions (let me know preferably).
 
 <b>Instructions for installation</b>
-- [Prerequisite] EqualizerAPO set up and installed on the speakers output using configurator app;
+- [Prerequisite] EqualizerAPO set up and installed on the speakers output using Configurator app (and reboot);
 - [Optional prerequisite for compression, highly recommended] 
 Install RoughRider3, which is available here. https://www.audiodamage.com/pages/free-downloads
 Use the setup file in the default path, or manually put the dll file in this path: C:\Program Files\Vstplugins\Audio Damage\ .
