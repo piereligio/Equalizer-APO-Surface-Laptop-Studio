@@ -24,7 +24,9 @@ Install RoughRider3, which is available here. https://www.audiodamage.com/pages/
 Use the setup file in the default path, or manually put the dll file in this path: C:\Program Files\Vstplugins\Audio Damage\ .
 - Download all files or the project as a zip;
 - Put all the files in C:\Program Files\EqualizerAPO\config\ (config.txt will be overwritten, if you didn't customize it just do it, otherwise merge them with a text editor);
+- You may need to reboot again for loading the profiles;
 - Start "Configuration Editor" from the start menu.
 <img width="463" alt="image" src="https://user-images.githubusercontent.com/11073747/221178614-0cb36c13-8366-4d54-aee5-83d675c84c36.png">
 If it looks like the previous image but with a red text in the first row, it'll be like mine when you click "Change" button and select your speakers output device. <b>It's a needed step.</b> Once done, it should work using the "laptop mode" profile.
+
 - To select the various profiles, turn off and on one profile at a time. You haven't to turn on more than one included profile together, otherwise it'll sound very bad.
